@@ -1,0 +1,769 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Szymon\\Desktop\\Sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\sudoku.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\sudoku.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\logic\\boardvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\logic\\boardvalidatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\logic\\boardmodifiers\\boardtransposertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\logic\\boardmodifiers\\boardtransposertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\logic\\boardmodifiers\\boardrowsgroupchangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\logic\\boardmodifiers\\boardrowsgroupchangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\logic\\boardmodifiers\\boardrowschangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\logic\\boardmodifiers\\boardrowschangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\logic\\boardmodifiers\\boardcolumnsgroupchangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\logic\\boardmodifiers\\boardcolumnsgroupchangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku.tests\\logic\\boardmodifiers\\boardcolumnschangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DE8204-9DB2-4FEC-A9A3-237DFA24E68A}|Sudoku.Tests\\Sudoku.Tests.csproj|solutionrelative:sudoku.tests\\logic\\boardmodifiers\\boardcolumnschangertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\levelchooseview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\levelchooseview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\levelchooseview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\levelchooseview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\gameview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\gameview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\gameview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\gameview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\controls\\numbercell.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\controls\\numbercell.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\controls\\numbercell.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\controls\\numbercell.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\controls\\bigcell.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\controls\\bigcell.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\views\\controls\\bigcell.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\views\\controls\\bigcell.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\state\\gamestateholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\state\\gamestateholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\state\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\state\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\model\\dimension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\model\\dimension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\model\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\model\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\model\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\utils\\randomutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\utils\\randomutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\solver\\puzzlesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\solver\\puzzlesolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\solver\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\solver\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\solver\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\solver\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\solver\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\solver\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\solver\\dlx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\solver\\dlx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\solver\\boardtodlxconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\solver\\boardtodlxconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\generator\\puzzlegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\generator\\puzzlegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\generator\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\generator\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\iboardmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\iboardmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\boardtransposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\boardtransposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\boardshuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\boardshuffler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\boardrowsgroupchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\boardrowsgroupchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\boardrowschanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\boardrowschanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\boardcolumnsgroupchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\boardcolumnsgroupchanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\boardcolumnschanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\boardcolumnschanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\abstractboardlinechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\abstractboardlinechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\logic\\boardmodifiers\\abstractboardgroupschanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\logic\\boardmodifiers\\abstractboardgroupschanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|c:\\users\\szymon\\desktop\\sudoku\\sudoku\\sudoku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{643AFAF3-9E8E-4675-B349-9DFFD38FD24F}|Sudoku\\Sudoku.csproj|solutionrelative:sudoku\\sudoku.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoardRowsGroupChangerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsGroupChangerTest.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsGroupChangerTest.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsGroupChangerTest.cs",
+              "RelativeToolTip": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsGroupChangerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:06.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoardTransposerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardTransposerTest.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardTransposerTest.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardTransposerTest.cs",
+              "RelativeToolTip": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardTransposerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoardValidatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardValidatorTest.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Logic\\BoardValidatorTest.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardValidatorTest.cs",
+              "RelativeToolTip": "Sudoku.Tests\\Logic\\BoardValidatorTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:11.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\GlobalUsings.cs",
+              "RelativeToolTip": "Sudoku.Tests\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:13.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sudoku.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Sudoku.Tests.csproj",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Sudoku.Tests.csproj",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Sudoku.Tests.csproj",
+              "RelativeToolTip": "Sudoku.Tests\\Sudoku.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T21:14:24.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Program.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Program.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Program.cs",
+              "RelativeToolTip": "Sudoku\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:52:36.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\app.manifest",
+              "RelativeDocumentMoniker": "Sudoku\\app.manifest",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\app.manifest",
+              "RelativeToolTip": "Sudoku\\app.manifest",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-07-04T21:14:14.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\App.axaml.cs",
+              "RelativeDocumentMoniker": "Sudoku\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\App.axaml.cs",
+              "RelativeToolTip": "Sudoku\\App.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T21:01:40.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoardRowsChangerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsChangerTest.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsChangerTest.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsChangerTest.cs",
+              "RelativeToolTip": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardRowsChangerTest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:01.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoardColumnsGroupChangerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsGroupChangerTest.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsGroupChangerTest.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsGroupChangerTest.cs",
+              "RelativeToolTip": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsGroupChangerTest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:52:58.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoardColumnsChangerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsChangerTest.cs",
+              "RelativeDocumentMoniker": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsChangerTest.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsChangerTest.cs",
+              "RelativeToolTip": "Sudoku.Tests\\Logic\\BoardModifiers\\BoardColumnsChangerTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:52:44.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\App.axaml",
+              "RelativeDocumentMoniker": "Sudoku\\App.axaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\App.axaml",
+              "RelativeToolTip": "Sudoku\\App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T20:52:32.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Sudoku\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T21:01:32.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Sudoku\\Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T20:51:28.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LevelChooseView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\LevelChooseView.axaml.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\LevelChooseView.axaml.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\LevelChooseView.axaml.cs",
+              "RelativeToolTip": "Sudoku\\Views\\LevelChooseView.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T21:01:16.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LevelChooseView.axaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\LevelChooseView.axaml",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\LevelChooseView.axaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\LevelChooseView.axaml",
+              "RelativeToolTip": "Sudoku\\Views\\LevelChooseView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T20:49:09.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\GameView.axaml.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\GameView.axaml.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\GameView.axaml.cs",
+              "RelativeToolTip": "Sudoku\\Views\\GameView.axaml.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAuwIAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:59:08.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameView.axaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\GameView.axaml",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\GameView.axaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\GameView.axaml",
+              "RelativeToolTip": "Sudoku\\Views\\GameView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T20:48:08.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NumberCell.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\NumberCell.axaml.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\Controls\\NumberCell.axaml.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\NumberCell.axaml.cs",
+              "RelativeToolTip": "Sudoku\\Views\\Controls\\NumberCell.axaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:59:04.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NumberCell.axaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\NumberCell.axaml",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\Controls\\NumberCell.axaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\NumberCell.axaml",
+              "RelativeToolTip": "Sudoku\\Views\\Controls\\NumberCell.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T20:58:47.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BigCell.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\BigCell.axaml.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\Controls\\BigCell.axaml.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\BigCell.axaml.cs",
+              "RelativeToolTip": "Sudoku\\Views\\Controls\\BigCell.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:58:57.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BigCell.axaml",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\BigCell.axaml",
+              "RelativeDocumentMoniker": "Sudoku\\Views\\Controls\\BigCell.axaml",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Views\\Controls\\BigCell.axaml",
+              "RelativeToolTip": "Sudoku\\Views\\Controls\\BigCell.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T20:58:43.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameStateHolder.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\State\\GameStateHolder.cs",
+              "RelativeDocumentMoniker": "Sudoku\\State\\GameStateHolder.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\State\\GameStateHolder.cs",
+              "RelativeToolTip": "Sudoku\\State\\GameStateHolder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:16.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\State\\GameState.cs",
+              "RelativeDocumentMoniker": "Sudoku\\State\\GameState.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\State\\GameState.cs",
+              "RelativeToolTip": "Sudoku\\State\\GameState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:32.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Dimension.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Model\\Dimension.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Model\\Dimension.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Model\\Dimension.cs",
+              "RelativeToolTip": "Sudoku\\Model\\Dimension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:29.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Model\\Cell.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Model\\Cell.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Model\\Cell.cs",
+              "RelativeToolTip": "Sudoku\\Model\\Cell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:27.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Model\\Board.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Model\\Board.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Model\\Board.cs",
+              "RelativeToolTip": "Sudoku\\Model\\Board.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:53:21.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BoardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardValidator.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardValidator.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardValidator.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardValidator.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:57:53.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RandomUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Utils\\RandomUtils.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Utils\\RandomUtils.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Utils\\RandomUtils.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Utils\\RandomUtils.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:57:50.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PuzzleSolver.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\PuzzleSolver.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Solver\\PuzzleSolver.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\PuzzleSolver.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Solver\\PuzzleSolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:55:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Node.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Solver\\Node.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Node.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Solver\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:55:28.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Header.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Header.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Solver\\Header.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Header.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Solver\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:55:25.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Extensions.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Solver\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Extensions.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Solver\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:55:22.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dlx.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Dlx.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Solver\\Dlx.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\Dlx.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Solver\\Dlx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:55:10.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BoardToDlxConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\BoardToDlxConverter.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Solver\\BoardToDlxConverter.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Solver\\BoardToDlxConverter.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Solver\\BoardToDlxConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:55:08.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PuzzleGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Generator\\PuzzleGenerator.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Generator\\PuzzleGenerator.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Generator\\PuzzleGenerator.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Generator\\PuzzleGenerator.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:52.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Generator\\Level.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\Generator\\Level.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\Generator\\Level.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\Generator\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:39.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IBoardModifier.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\IBoardModifier.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\IBoardModifier.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\IBoardModifier.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\IBoardModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:36.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BoardTransposer.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardTransposer.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\BoardTransposer.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardTransposer.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\BoardTransposer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:34.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BoardShuffler.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardShuffler.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\BoardShuffler.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardShuffler.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\BoardShuffler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BoardRowsGroupChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardRowsGroupChanger.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\BoardRowsGroupChanger.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardRowsGroupChanger.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\BoardRowsGroupChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BoardRowsChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardRowsChanger.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\BoardRowsChanger.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardRowsChanger.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\BoardRowsChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BoardColumnsGroupChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardColumnsGroupChanger.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\BoardColumnsGroupChanger.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardColumnsGroupChanger.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\BoardColumnsGroupChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:30.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BoardColumnsChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardColumnsChanger.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\BoardColumnsChanger.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\BoardColumnsChanger.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\BoardColumnsChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:28.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AbstractBoardLineChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\AbstractBoardLineChanger.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\AbstractBoardLineChanger.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\AbstractBoardLineChanger.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\AbstractBoardLineChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:27.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AbstractBoardGroupsChanger.cs",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\AbstractBoardGroupsChanger.cs",
+              "RelativeDocumentMoniker": "Sudoku\\Logic\\BoardModifiers\\AbstractBoardGroupsChanger.cs",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Logic\\BoardModifiers\\AbstractBoardGroupsChanger.cs",
+              "RelativeToolTip": "Sudoku\\Logic\\BoardModifiers\\AbstractBoardGroupsChanger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:54:23.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Sudoku.csproj",
+              "DocumentMoniker": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Sudoku.csproj",
+              "RelativeDocumentMoniker": "Sudoku\\Sudoku.csproj",
+              "ToolTip": "C:\\Users\\Szymon\\Desktop\\Sudoku\\Sudoku\\Sudoku.csproj",
+              "RelativeToolTip": "Sudoku\\Sudoku.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T21:04:38.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
